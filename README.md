@@ -4,4 +4,4 @@
 3.[实现三栏布局几种方法](https://github.com/yourshero/blogs/issues/5)  
 4.[超能力的grid布局](https://github.com/yourshero/blogs/issues/6)  
 5.[js排序汇总](https://github.com/yourshero/blogs/issues/7)  
-5.[es6学习记](https://github.com/yourshero/blogs/issues/8)
+6.[es6学习记](https://github.com/yourshero/blogs/issues/8)
