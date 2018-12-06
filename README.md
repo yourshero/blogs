@@ -5,4 +5,4 @@
 4.[超能力的grid布局](https://github.com/yourshero/blogs/issues/6)  
 5.[js排序汇总](https://github.com/yourshero/blogs/issues/7)  
 6.[dom转换为字符串](https://github.com/yourshero/blogs/issues/8)  
-6.[es6](https://github.com/yourshero/blogs/issues/9)
+6.[es6](http://jspang.com/post/es6.html)  
