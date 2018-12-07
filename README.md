@@ -6,3 +6,4 @@
 5.[js排序汇总](https://github.com/yourshero/blogs/issues/7)  
 6.[dom转换为字符串](https://github.com/yourshero/blogs/issues/8)  
 7.[es6](http://jspang.com/post/es6.html)  
+8.[git小乌龟拉取github远程分支代码方法](http://jspang.com/post/es6.html)  
