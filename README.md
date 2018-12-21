@@ -9,3 +9,5 @@
 8.[git小乌龟拉取github远程分支代码方法](https://github.com/yourshero/blogs/issues/9)  
 9.[div显示隐藏方法汇总](https://github.com/yourshero/blogs/issues/10)  
 10.[js数组去重汇总](https://github.com/yourshero/blogs/issues/12)  
+11.[jlabel里面的for有什么意义](https://github.com/yourshero/vue/edit/master/README.md)  
+
