@@ -13,5 +13,5 @@
 12.[IIS本地服务器配置](https://www.cnblogs.com/manmanlu/p/5917169.html)  
 13.[css3之calc()方法](https://github.com/yourshero/blogs/issues/13)  
 ###  vue篇
-1.[vue组件间传值](https://github.com/yourshero/blogs/issues/3)  
+1.[vue组件间传值](https://github.com/yourshero/blogs/issues/14)  
 
