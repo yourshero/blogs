@@ -12,4 +12,5 @@
 11.[label里面的for有什么意义](https://www.cnblogs.com/net5x/articles/7732504.html)  
 12.[IIS本地服务器配置](https://www.cnblogs.com/manmanlu/p/5917169.html)  
 13.[css3之calc()方法](https://github.com/yourshero/blogs/issues/13)  
+14.[html页面公共部分模块化(html转换成js,调用js模板)](https://github.com/yourshero/blogs/issues/14)  
 
