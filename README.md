@@ -15,6 +15,7 @@
 14.[遍历数组,与给定值比较,如果存在则删除,如果不存在则添加](https://github.com/yourshero/blogs/issues/14)  
 15.[父容器利用opacity设置透明后，子元素跟着变透明的解决方案](https://github.com/yourshero/blogs/issues/15)  
 16.[js时间戳之格式转换、截取方法汇总](https://github.com/yourshero/blogs/issues/16)  
+17.[js时间戳之格式转换、截取方法汇总](https://github.com/yourshero/blogs/issues/17)  
 ###  vue篇
 1.[vue组件间传值](https://github.com/yourshero/blogs/issues/14)  
 
