@@ -18,4 +18,5 @@
 17.[js时间戳之格式转换、截取方法汇总](https://github.com/yourshero/blogs/issues/17)  
 ###  vue篇
 1.[vue组件间传值](https://github.com/yourshero/blogs/issues/14)  
+2.[vue移动端适配](https://www.cnblogs.com/lulianlian/p/7656184.html)  
 
